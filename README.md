@@ -1,4 +1,4 @@
-Diana Narynbekova, SE-2217
+Yersayan Toleu, SE-2217
 
 # WaitTests.java
 
